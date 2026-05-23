@@ -126,3 +126,8 @@ Steps:
 This project is for educational purposes only. It should not be considered financial advice.
 
 ---
+
+## Public deployed link 
+https://stockrecommendation-15.streamlit.app/
+
+---
